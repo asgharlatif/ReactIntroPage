@@ -39,4 +39,4 @@ jobs:
         run: npm install -g surge
         
       - name: Run Surge
-        run: surge ./build Project003-MuhammadAsgharAli.surge.sh --token ${{secrets.SURGE_TOKEN}}    
+        run: surge ./build ReactIntroPage-MuhammadAsgharAli.surge.sh --token ${{secrets.SURGE_TOKEN}}   
