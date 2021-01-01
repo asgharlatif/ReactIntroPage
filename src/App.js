@@ -1,5 +1,4 @@
 
-import { getAllByPlaceholderText, getDefaultNormalizer } from '@testing-library/react';
 import React from 'react';
 /*import logo from './logo.svg';*/
 import './App.css';
