@@ -1,1 +1,10 @@
 .mycss { background-color: aqua; }
+.outPopUp {
+    position: absolute;
+    width: 800px;
+    
+    z-index: 15;
+    top: 10%;
+    left: 25%;    
+    background:gainsboro;
+  }

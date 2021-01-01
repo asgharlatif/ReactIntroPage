@@ -14,9 +14,8 @@ ReactDOM.render(
 
 ReactDOM.render(
 <div>
-  <App name="Zia Khan" age = {25}/>
-
-</div>
+  <App name="Muhammad Asghar Ali" age = {45}/>
+ </div>
   ,
   document.getElementById('root')
 );
